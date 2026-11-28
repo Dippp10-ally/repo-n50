@@ -6,4 +6,4 @@ Document retry configuration
 
 ## Updated
 
-2026-11-27 02:33:35 UTC
+2026-11-28 02:22:45 UTC
